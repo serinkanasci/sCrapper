@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1572387046 source:c:\users\serinkan\desktop\cours esgi\projet\scraper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curl.h>
+	<string.h>
+
+1552128416 c:\program files (x86)\codeblocks\mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1544595236 c:\program files (x86)\codeblocks\mingw\include\curl\curlver.h
+
+1540793490 c:\program files (x86)\codeblocks\mingw\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1540627254 c:\program files (x86)\codeblocks\mingw\include\curl\easy.h
+
+1539862072 c:\program files (x86)\codeblocks\mingw\include\curl\multi.h
+	"curl.h"
+
+1541540778 c:\program files (x86)\codeblocks\mingw\include\curl\urlapi.h
+
+1544434008 c:\program files (x86)\codeblocks\mingw\include\curl\typecheck-gcc.h
+
